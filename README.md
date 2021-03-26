@@ -1,2 +1,2 @@
 # minecraft-red-diamond-legend-mod
-我的Minecraft第一個模組作品 製作BY青龍(楊其龍)
+我的Minecraft第一個模組作品 製作BY楊其龍
